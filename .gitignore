@@ -1,3 +1,4 @@
 .idea
 */__pycache__
-.DS_Storegit push -u origin master
+.DS_Store
+*/.Ds_Store
