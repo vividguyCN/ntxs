@@ -1,5 +1,4 @@
-##逆天邪神更新提醒
-
+#逆天邪神更新提醒
 
 ###一、安装依赖
 `pip3 install  -r requirements.txt `
